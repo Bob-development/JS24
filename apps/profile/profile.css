@@ -1,0 +1,8 @@
+.new-img, .user-img{
+    width: 400px;
+    height: 400px;
+}
+
+.new-img:hover{
+    cursor: pointer;
+}

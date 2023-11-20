@@ -1,0 +1,8 @@
+.login-wrapper{
+    display: grid;
+    gap: 2rem;
+}
+
+.login-input, .pass-input{
+    height: 30px;
+}

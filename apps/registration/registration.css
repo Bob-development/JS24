@@ -1,0 +1,8 @@
+.registr-wrapper{
+    display: grid;
+    gap: 2rem;
+}
+
+.registr-input, .pass-input{
+    height: 30px;
+}
